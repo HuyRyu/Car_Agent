@@ -1,0 +1,8 @@
+beautifulsoup4
+selenium
+llama-index
+llama-index-vector-stores-chroma
+chromadb
+llama-agents
+llama-index-agent-openai
+streamlit
